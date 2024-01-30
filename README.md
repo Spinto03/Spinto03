@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: https://www.linkedin.com/in/scarlet-pinto-661035207/ 
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Chocolate addict 
 
 <!---
